@@ -1,16 +1,42 @@
-## Hi there 👋
+# Grayson King
 
-<!--
-**graysonsking/graysonsking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Quantitative research | Portfolio construction | Applied machine learning in finance**
 
-Here are some ideas to get you started:
+M.S. candidate in Financial Technology and Analytics at Wake Forest University (Aug 2026). B.S. in Business Administration from NC State. I build and test systematic investment strategies in Python, with a focus on index construction, factor signals, and NLP applied to financial text.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently seeking investment research, asset class analytics, and quantitative analyst roles in the Research Triangle area.
+
+---
+
+### Focus Areas
+
+- **Portfolio construction** — mean variance optimization, risk parity, minimum variance with Ledoit-Wolf shrinkage, alternative index weighting
+- **Systematic strategy research** — walk-forward backtesting, cointegration and copula methods, cross-sectional momentum
+- **NLP for finance** — FinBERT sentiment applied to SEC filings and news for signal generation
+- **Fixed income and macro** — Treasury curve construction, Taylor Rule modeling, macro Z-score signals
+
+---
+
+### Featured Work
+
+| Project | What it does | Stack |
+|---|---|---|
+| [multi-strategy-portfolio](https://github.com/graysonsking/multi-strategy-portfolio) | Research framework combining systematic trading, portfolio optimization, and risk management | Python, pandas, NumPy, SciPy |
+| [sp500-concentration-research](https://github.com/graysonsking/sp500-concentration-research) | M.S. capstone testing whether alternative S&P 500 weighting schemes restore diversification (2000 to 2025) | Python, WRDS, statsmodels |
+| [nlp-sector-momentum](https://github.com/graysonsking/nlp-sector-momentum) | Sector rotation signal built from FinBERT sentiment on financial text | Python, transformers, PyTorch |
+| [copula-pairs-trading](https://github.com/graysonsking/copula-pairs-trading) | Statistical arbitrage on S&P 100 pairs using Johansen cointegration and copula-based entry rules | Python, statsmodels, SciPy |
+| [treasury-hedge-bot](https://github.com/graysonsking/treasury-hedge-bot) | Treasury rate forecasting and bond hedging using FRED data and monotone convex curve interpolation | Python, FRED API, FinBERT |
+
+---
+
+### Toolkit
+
+`Python` `SQL` `pandas` `NumPy` `SciPy` `scikit-learn` `statsmodels` `PyTorch` `transformers` `Matplotlib` `Excel` `AWS` `Capital IQ` `WRDS`
+
+---
+
+### Currently
+
+Finishing my capstone on S&P 500 concentration risk and alternative weighting strategies. Defense is August 2026.
+
+**Contact:** [LinkedIn](https://www.linkedin.com/in/graysonsking) · GraysonSKing@gmail.com

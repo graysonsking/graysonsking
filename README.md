@@ -1,6 +1,6 @@
 # Grayson King
 
-**Quantitative research | Portfolio construction | Applied machine learning in finance**
+**Quantitative research | Portfolio construction | Applied Machine Learning in Finance**
 
 M.S. candidate in Financial Technology and Analytics at Wake Forest University (Aug 2026). B.S. in Business Administration from NC State. I build and test systematic investment strategies in Python, with a focus on index construction, factor signals, and NLP applied to financial text.
 

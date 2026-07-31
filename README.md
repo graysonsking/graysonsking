@@ -25,7 +25,8 @@ Currently seeking investment research, asset class analytics, and quantitative a
 | [sp500-concentration-research](https://github.com/graysonsking/sp500-concentration-research) | M.S. capstone testing whether alternative S&P 500 weighting schemes restore diversification (2000 to 2025) | Python, WRDS, statsmodels |
 | [nlp-sector-momentum](https://github.com/graysonsking/nlp-sector-momentum) | Sector rotation signal built from FinBERT sentiment on financial text | Python, transformers, PyTorch |
 | [copula-pairs-trading](https://github.com/graysonsking/copula-pairs-trading) | Statistical arbitrage on S&P 100 pairs using Johansen cointegration and copula-based entry rules | Python, statsmodels, SciPy |
-| [treasury-hedge-bot](https://github.com/graysonsking/treasury-hedge-bot) | Treasury rate forecasting and bond hedging using FRED data and monotone convex curve interpolation | Python, FRED API, FinBERT |
+| [macro-zscore-commodities](https://github.com/graysonsking/macro-zscore-commodities) | Cross-sectional commodity signals from point-in-time macro Z-scores built on FRED series | Python, FRED API|
+| [equity-valuation-engine](https://github.com/graysonsking/equity-valuation-engine) | Automated DCF and comparables valuation across the S&P 500, with a ranked fair value table | Python, numpy, pandas|
 
 ---
 
